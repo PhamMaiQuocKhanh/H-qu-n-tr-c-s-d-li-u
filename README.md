@@ -71,7 +71,28 @@ Bài toán quản lý khách sạn nhằm quản lí phòng và thông tin khác
   - Xóa Phòng
         -![image](https://github.com/PhamMaiQuocKhanh/QuanLiKhachSan/assets/168647678/f08a1eaa-a970-44cc-ac17-ef1c1f852b86)
    - Tạo view phòng còn trống
-         - 
+         - ![image](https://github.com/PhamMaiQuocKhanh/QuanLiKhachSan/assets/168647678/04cca8be-d97a-49c3-914a-850e9b2f1735)
+  -Thêm thông tin khách hàng
+         -Tạo Tringger thêm thông tin khách hàng.Trigger này giúp đảm bảo tính nhất quán dữ liệu bằng cách tự động thêm thông tin khách hàng vào khi có đặt phòng mới.
+       -![image](https://github.com/PhamMaiQuocKhanh/QuanLiKhachSan/assets/168647678/402ac872-158b-4c68-a2ae-91ee9900fdb0)
+     - Kết quả khi thêm 1 khách hàng mới ( khách hàng số 3)
+       - ![image](https://github.com/PhamMaiQuocKhanh/QuanLiKhachSan/assets/168647678/5323952b-7039-4632-ab5a-1ef53a49cf7c)
+ ## Các Báo Cáo
+ - Danh sách khách hàng
+     - ![image](https://github.com/PhamMaiQuocKhanh/QuanLiKhachSan/assets/168647678/9f327705-274c-41d1-b141-f778eb439b11)
+ - Danh sách phòng còn trống
+     -  ![image](https://github.com/PhamMaiQuocKhanh/QuanLiKhachSan/assets/168647678/67050414-9648-4996-8991-c10e05b98a8e)
+ - Hóa Đơn
+     - ![image](https://github.com/PhamMaiQuocKhanh/QuanLiKhachSan/assets/168647678/32b38ad0-4507-4215-aa3c-654f717f8896)
+- Danh Sách khách hàng thuê phòng
+     - ![image](https://github.com/PhamMaiQuocKhanh/QuanLiKhachSan/assets/168647678/011b9c38-e5ee-4750-b13d-767eabebceb6)
+- Danh sách nhân viên
+     - ![image](https://github.com/PhamMaiQuocKhanh/QuanLiKhachSan/assets/168647678/84de64e1-ff8e-4c34-8b7d-b00294f5e1e2)
+       
+
+
+
+
 
  
 
@@ -79,4 +100,4 @@ Bài toán quản lý khách sạn nhằm quản lí phòng và thông tin khác
  
   
 
-   -   
+       
