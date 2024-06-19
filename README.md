@@ -68,6 +68,11 @@ Bài toán quản lý khách sạn nhằm quản lí phòng và thông tin khác
      - ![image](https://github.com/PhamMaiQuocKhanh/H-qu-n-tr-c-s-d-li-u/assets/168647678/b9ddfef9-cd3e-4685-8a1f-3f2f3259ab46)
      - Kết quá
          -![image](https://github.com/PhamMaiQuocKhanh/H-qu-n-tr-c-s-d-li-u/assets/168647678/feffd9e7-4612-46f1-b398-ff72ee4f684a)
+  - Xóa Phòng
+        -![image](https://github.com/PhamMaiQuocKhanh/QuanLiKhachSan/assets/168647678/f08a1eaa-a970-44cc-ac17-ef1c1f852b86)
+   - Tạo view phòng còn trống
+         - 
+
  
 
 
